@@ -84,6 +84,14 @@ li {
   text-align: left;
 }
 
+.outlines.center {
+  margin: auto;
+}
+
+.outlines.center td {
+  text-align: center;
+}
+
 .outlines gr:last-child, .outlines .gregg:last-child {
   display: inline-block;
   margin-left: 10px;
